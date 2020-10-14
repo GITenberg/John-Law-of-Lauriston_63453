@@ -1,11 +1,16 @@
 _repo: John-Law-of-Lauriston_63453
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63453-h/images/cover.jpg
 creator:
   author:
     agent_name: Wiston-Glynn, A. W.
     gutenberg_agent_id: '52453'
     url: http://www.gutenberg.org/2009/agents/52453
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63453#John-Law-of-Lauriston
 gutenberg_issued: '2020-10-13'
 gutenberg_type: Text
 identifiers:
